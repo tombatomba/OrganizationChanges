@@ -1,9 +1,10 @@
-# ML Project Documentation
+# Transform Dev company to shared service centar
 
-How to organize IT SSC
+This material is generated for academic purposes. It shows pitch for organization transformation.
+
 
 ##  Contents
 - [WHY](why.md)
 - [Current state](currentState.md)
 - [Future state](futureState.md)
-- [Phases](references.md)
+- [Phases](phases.md)
