@@ -41,4 +41,11 @@ Establish SSCs in locations with lower labor costs to achieve cost advantages wh
 - SSC operates as an internal service provider aligned with corporate IT strategy.
 
 - Supports digital transformation initiatives across the group.
-  
+
+## Better Support and Collaboration
+
+- The SSC acts as a single point of contact for all daughter companies.
+
+- Common ticketing systems, knowledge bases, and SLAs make support predictable and transparent.
+
+- Encourages collaboration and knowledge sharing between subsidiaries.
