@@ -55,3 +55,7 @@ Establish SSCs in locations with lower labor costs to achieve cost advantages wh
 - When the parent company acquires a new business, the SSC can quickly onboard it into shared systems.
 
 - New subsidiaries don’t need to build IT from scratch — they plug into existing shared services.
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
