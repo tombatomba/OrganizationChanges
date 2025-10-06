@@ -49,3 +49,9 @@ Establish SSCs in locations with lower labor costs to achieve cost advantages wh
 - Common ticketing systems, knowledge bases, and SLAs make support predictable and transparent.
 
 - Encourages collaboration and knowledge sharing between subsidiaries.
+
+## Scalability for Growth and M&A
+
+- When the parent company acquires a new business, the SSC can quickly onboard it into shared systems.
+
+- New subsidiaries don’t need to build IT from scratch — they plug into existing shared services.
