@@ -57,5 +57,6 @@ Establish SSCs in locations with lower labor costs to achieve cost advantages wh
 - New subsidiaries don’t need to build IT from scratch — they plug into existing shared services.
 
 
+
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> The list of IT services can be divided into RUN and TRANSFORM categories.
