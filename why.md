@@ -34,5 +34,11 @@ Establish SSCs in locations with lower labor costs to achieve cost advantages wh
 
 - Consistent technology architecture across the enterprise.
 
-  
+## Strategic Alignment
+
+- Frees local business units to focus on their core operations.
+
+- SSC operates as an internal service provider aligned with corporate IT strategy.
+
+- Supports digital transformation initiatives across the group.
   
