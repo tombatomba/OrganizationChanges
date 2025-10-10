@@ -14,5 +14,5 @@ The operating model includes a joint steering body that aligns and approves deve
 
 
 
-![Logical architecture in insurance companu](../media/base-octocat.jpg)
+![Logical architecture in insurance companu](../media/LogicalArchitecture.png)
 
