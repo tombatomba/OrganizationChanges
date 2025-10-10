@@ -13,7 +13,7 @@ Each non-EU subsidiary uses an identical IT core system. The system is maintaine
 The operating model includes a joint steering body that aligns and approves development plans for the upcoming year. During regular operation, system maintenance is managed through a dedicated ticketing platform, where each company submits its own requests for minor changes. These requests are handled independently and are not visible to other client companies.
 
 
-##Simplified Application Architecture
+## Simplified Application Architecture
 
 ![Logical architecture in insurance companu](/media/LogicalArchitecture.png)
 
