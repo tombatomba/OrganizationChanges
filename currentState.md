@@ -40,3 +40,8 @@ Similar as in software landscape it leads to:
 * security chalanges
 * limited knowledge sharing
 * dependancy on critical workforce
+
+## Digital Workplace software and general ledger
+
+Despite the existing challenges, there is a segment that has been successfully centralized and is operating effectively, already showing measurable improvements in service quality and performance. This centralized segment covers key components of the Microsoft ecosystem, including email, Office, Navision, and the Service Desk platform.
+
