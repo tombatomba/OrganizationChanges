@@ -16,3 +16,10 @@ The operating model includes a joint steering body that aligns and approves deve
 
 ![Logical architecture in insurance companu](/media/LogicalArchitecture.png)
 
+
+According to diagram above, it is obvious complexity in current arhitecture. Even Core system is same, there are list of customization specific for each group.
+Software landscape is stil various due to:
+* legacy reasons (some companies are just follow current track)
+* different business requirements and needs
+* different competences in local subsidiaries
+* lack of common enterprise bus around core system
