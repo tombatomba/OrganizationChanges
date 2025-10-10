@@ -13,13 +13,30 @@ Each non-EU subsidiary uses an identical IT core system. The system is maintaine
 The operating model includes a joint steering body that aligns and approves development plans for the upcoming year. During regular operation, system maintenance is managed through a dedicated ticketing platform, where each company submits its own requests for minor changes. These requests are handled independently and are not visible to other client companies.
 
 
+##Simplified Application Architecture
 
 ![Logical architecture in insurance companu](/media/LogicalArchitecture.png)
 
 
+## Business software
 According to diagram above, it is obvious complexity in current arhitecture. Even Core system is same, there are list of customization specific for each group.
 Software landscape is stil various due to:
 * legacy reasons (some companies are just follow current track)
 * different business requirements and needs
 * different competences in local subsidiaries
 * lack of common enterprise bus around core system
+
+## Of the shelf software
+Even not listed, other software solutions used vary from one group member to another, although in some areas there is a significant influence from the Group, which has managed to introduce unified solutions.
+Consequently, the list of vendors varies.
+
+## Infrastructure
+
+If we exclude the recent efforts to unify and organize the security segment with the support of the Group, the basic infrastructure elements remain entirely at the discretion of the subsidiaries. In addition to using different manufacturers (firewalls, servers, storage), this also results in partnerships with various vendors specialized in specific solutions and devices.
+Similar as in software landscape it leads to:
+* lack of standardization
+* higher costs
+* complex vendor management
+* security chalanges
+* limited knowledge sharing
+* dependancy on critical workforce
